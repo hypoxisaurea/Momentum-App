@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    width: 1200px;
+    height: 700px;
+    
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: 20px 20px 60px #a8a8a8, -20px -20px 60px #ffffff;
+}
+
+div {
+    border-radius: 29px;
+    background: linear-gradient(315deg, #e6e6e6, #ffffff);
+    box-shadow:  -10px -10px 20px #d9d9d9, 10px 10px 20px #ffffff;
+}
+
+
+h2 {
+    border-radius: 29px;
+    background: linear-gradient(315deg, #e6e6e6, #ffffff);
+    box-shadow:  -10px -10px 20px #d9d9d9, 10px 10px 20px #ffffff;
+}
+
+
+#clock {
+    padding-top: 20px;
+    text-align: center;
+    color: silver;
+
+    font-size: 70px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
